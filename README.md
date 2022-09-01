@@ -8,8 +8,7 @@ I'm a passionate about web development, and focused on the backend through techn
 ### Technologies I use:
 
 - Javascript
-- HTML
-- CSS
+- Typescript
 - Express.js
 - Postgresql
 - Mysql
