@@ -9,6 +9,7 @@ I'm a passionate about web development, and focused on the backend through techn
 
 - Javascript
 - Typescript
+- NodeJs
 - Express.js
 - Postgresql
 - Mysql
